@@ -1,0 +1,4 @@
+Ingestion - Files Load via Auto Loader
+Medallion Architecture - Bronze Layer( Data Lake - Store the raw data)
+Silver Layer - We will use DLT here
+Gold Layer - DBT We will build star schema builder
